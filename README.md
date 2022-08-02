@@ -23,7 +23,7 @@ Mobile view of the challenge
 
 ### Links
 
-- Live Site URL: [Click to see the live challenge](calculusky001.netlify.app)
+- Live Site URL: [Click to see the live challenge](https://calculusky001.netlify.app/)
 
 ### Built with
 
